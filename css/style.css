@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    text-decoration: underline;
+    font-size: 35px;
+    color: blue;
+    text-shadow: 1px 1px 3px black;
+}
+
+h2 {
+    text-align: center;
+}
+
+dt {
+    font-weight:700;
+    margin: 1%;
+}
+
+dl {
+    font-size: 20px;
+    text-align: center;
+    margin: 15px;
+}
+
+
